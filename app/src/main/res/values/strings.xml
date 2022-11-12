@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">爱尔大屏</string>
+    <string name="set_app">设置应用</string>
+    <string name="quit_app">退出应用</string>
+
+</resources>
