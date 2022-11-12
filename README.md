@@ -17,5 +17,6 @@
 4. 为方便遥控器操作， 双击返回键 时可选择设置参数。
 5. 集成NanoHTTPD web服务，方便在网页中设置参数。
 
-
-
+#### 案例说明
+一个弹幕网页，需要实时的接收多人发来的信息，弹幕形式显示在网页中，并把文字转为语音播放出来。 
+	- ![image](https://github.com/nocb/TV-webview/blob/main/doc/danmu.png?raw=true)
