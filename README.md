@@ -34,5 +34,9 @@
 #### 使用说明
 app默认打开是 https://www.baidu.com ，设置成你需要的网址。
 双击返回键，进入设置服务， 在浏览器中输入 网址，设置url ，提交后重新开启应用 。 
+- ![image](https://github.com/nocb/TV-webview/blob/main/doc/11.png?raw=true)
+- ![image](https://github.com/nocb/TV-webview/blob/main/doc/22.png?raw=true)
+- ![image](https://github.com/nocb/TV-webview/blob/main/doc/setting.png?raw=true)
+
 
 
