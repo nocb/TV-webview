@@ -38,5 +38,9 @@ app默认打开是 https://www.baidu.com ，设置成你需要的网址。
 - ![image](https://github.com/nocb/TV-webview/blob/main/doc/22.png?raw=true)
 - ![image](https://github.com/nocb/TV-webview/blob/main/doc/setting.png?raw=true)
 
+#### 问题
+1. x5 内核加载不成功 
+可以先加载 https://debugtbs.qq.com/   然后调试， 可手动“安装线上内核”   
+具体可参考： X5内核加载问题自查手册.pdf 
 
 
